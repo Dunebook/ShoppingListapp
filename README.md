@@ -1,4 +1,4 @@
-# vueshoppingcart
+# vueshoppinglist
 
 ## Project setup
 ```
